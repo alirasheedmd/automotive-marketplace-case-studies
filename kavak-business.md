@@ -1,7 +1,3 @@
-Here is a detailed case study on Kavak, focusing on its origins in Mexico and the strategic moves that led to its massive success.
-
----
-
 # Case Study: Kavak – The Unicorn of the Used Car Market
 
 ### Executive Summary
@@ -22,7 +18,7 @@ Before Kavak, buying a used car in Mexico was a nightmare.
 
 ### 2. The Origin Story
 
-**Founders:** Carlos García Ottati (CEO), Loreanne García (COO), and José Peralta.
+**Founders:** Carlos García Ottati, Loreanne García, and Roger Laughlin.
 **Year:** 2016.
 
 Carlos García Ottati, a Venezuelan entrepreneur with experience in private equity, noticed the discrepancy between the quality of cars and the prices in Mexico. He realized that the lack of trust was the single biggest friction point.
@@ -41,7 +37,7 @@ Kavak’s success wasn't just about moving car sales online; it was about fixing
 Unlike a marketplace that just connects buyers and sellers (like Craigslist or eBay Motors), Kavak owns the inventory.
 
 1.  **Buying:** They use algorithms to price cars accurately and buy directly from owners.
-2.  **Reconditioning:** They built massive industrial centers (Centros de Reacondicionamiento). Every car undergoes a rigorous 160-point inspection and is detailed/repainted.
+2.  **Reconditioning:** They built dedicated logistics and reconditioning hubs. Vehicles are inspected and refurbished before sale.
 3.  **Selling:** They sell the car with a warranty, guaranteeing the condition.
 
 #### B. Solving the Financing Bottleneck
@@ -71,10 +67,10 @@ Kavak sold peace of mind. They offered:
 ### 4. Growth Milestones
 
 - **2016:** Founded in Mexico City.
-- **2018:** Secured major Series B funding ($100M+), allowing them to build the expensive infrastructure needed for reconditioning cars.
+- **2018–2019:** Raised growth capital to expand its inventory, financing, logistics, and reconditioning operations.
 - **2020:** Became Mexico’s first tech unicorn, reaching a $1.15 billion valuation during the pandemic—a time when digital car buying accelerated.
-- **2021:** Expanded operations to Argentina and Brazil.
-- **2022:** Valuation soared to $8.7 billion following a massive investment from SoftBank and General Atlantic.
+- **2020–2021:** Expanded operations to Argentina and Brazil.
+- **2021:** A $700 million Series E valued the company at $8.7 billion.
 
 ### 5. The Economic Model
 
@@ -90,7 +86,7 @@ In late 2022 and 2023, Kavak faced significant headwinds.
 
 - **Interest Rates:** Rising global interest rates made capital expensive, squeezing their margins on car loans.
 - **Over-Expansion:** The company expanded rapidly into Brazil and Argentina. While logical for growth, the operational complexity of managing paperwork and logistics in three different countries with three different economies proved difficult.
-- **Correction:** In 2023, Kavak laid off roughly 50% of its workforce. The CEO admitted they had hired too fast, assuming a "zero-interest rate" economy would last forever.
+- **Correction:** Kavak retrenched after its rapid international expansion, reducing staff and shifting its emphasis from growth at all costs toward operating discipline and profitability.
 
 ### 7. Key Takeaways for Entrepreneurs
 
@@ -102,3 +98,17 @@ In late 2022 and 2023, Kavak faced significant headwinds.
 ### Conclusion
 
 Kavak transformed the Mexican automotive market from a dangerous, informal bazaar into a modern, organized retail experience. By controlling the inventory, the financing, and the legal paperwork, they solved the three biggest pain points for Mexican consumers: **Safety, Simplicity, and Affordability.**
+
+---
+
+## Sources and Scope
+
+Company-specific facts in this case study are based on the following public sources. The strategic interpretation and architecture implications are the author's analysis rather than claims about Kavak's private systems.
+
+- [Kavak newsroom: company background and operating model](https://news-room.kavak.com/)
+- [Kavak: $300 million Series F announcement and description of its integrated model (2026)](https://news-room.kavak.com/kavak-announces-usd300-million-series-f-led-by-andreessen-horowitz-to-expand-access-trust-and-financing-across-latin-america)
+- [TechCrunch: $485 million Series D, $4 billion valuation, financing, and reconditioning model (2021)](https://techcrunch.com/2021/04/07/mexican-unicorn-kavak-raises-a-485m-series-d-at-a-4b-valuation/)
+- [TechCrunch: $700 million Series E and $8.7 billion valuation (2021)](https://techcrunch.com/2021/09/21/mexicos-kavak-raises-700m-for-its-used-car-marketplace-doubling-its-valuation-to-8-7b/)
+- [TechCrunch: later valuation reset, expansion difficulties, and layoffs (2025)](https://techcrunch.com/2025/05/05/here-are-latin-americas-biggest-startups-based-on-valuation/)
+
+Sources last reviewed: September 19, 2026.

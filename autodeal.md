@@ -6,7 +6,7 @@ AutoDeal is the Philippines' premier automotive online marketplace. It revolutio
 
 ### 1. The Problem: A Fragmented, Offline Market
 
-Before AutoDeal (launched around 2013-2014), the Philippine automotive industry was notoriously difficult to navigate for the average consumer.
+Before AutoDeal launched in 2014, the Philippine automotive industry was difficult to navigate for the average consumer.
 
 - **Lack of Transparency:** There was no centralized source for car pricing. Dealers often practiced opaque pricing, requiring buyers to visit showrooms in person just to get a quote.
 - **Information Asymmetry:** Buyers struggled to compare specifications, features, and promotions across different brands. Research involved collecting physical brochures from various locations.
@@ -20,7 +20,7 @@ Before AutoDeal (launched around 2013-2014), the Philippine automotive industry 
 They identified a significant gap: Filipinos were going online to search for cars, but the market had no dedicated digital infrastructure to serve them. The existing options were general classifieds sites which were disorganized and lacked verified pricing data.
 
 **The Evolution:**
-AutoDeal began as an automotive content portal.
+AutoDeal launched as a buyer-information and promotions platform after its founding team had built Pinoy Auto Trader.
 
 - Initially, the team focused on writing car reviews and industry news.
 - They quickly noticed that the audience wasn't just reading for entertainment; they were asking practical questions: _"How much is the down payment?"_ and _"Where can I test drive this?"_
@@ -77,3 +77,18 @@ AutoDeal operates on an asset-light model, meaning they do not buy, hold, or sel
 ### Conclusion
 
 AutoDeal transformed the Philippine automotive landscape from a fragmented, offline industry into a streamlined digital ecosystem. By combining high-quality content, transparent pricing data, and powerful dealer software, they positioned themselves as the essential bridge between Filipino car buyers and the automotive industry.
+
+---
+
+## Sources and Scope
+
+Company-specific facts in this case study are based on the following public sources. Conclusions about strategy and product architecture are the author's analysis.
+
+- [AutoDeal: how its lead generation, routing, dashboards, and sales tracking work](https://www.autodeal.com.ph/corporate-blog/how-autodeal-tracks-leads-and-sales)
+- [AutoDeal Business: marketplace products and commercial models](https://autodealbusiness.com.ph/product-pages/marketplace)
+- [AutoDeal Business: current company and product overview](https://autodealbusiness.com.ph/)
+- [AutoIndustriya: AutoDeal's April 2014 launch and initial proposition](https://www.autoindustriya.com/auto-industry-news/autodeal-website-offer-various-automotive-deals.html)
+- [Frontier Digital Ventures: investment announcement and founder background](https://frontierdv.com/investment-into-two-leading-se-asian-online-classified-portals/)
+- [AutoDeal: content analytics and the role of content in purchase decisions](https://www.autodeal.com.ph/corporate-blog/autodeal-launch-content-analytics)
+
+Sources last reviewed: September 19, 2026.

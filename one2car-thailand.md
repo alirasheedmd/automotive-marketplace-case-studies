@@ -1,14 +1,10 @@
-Here is a case study on **One2Car**, analyzing its position in the Thai market, its strategy, and the lessons it offers for the Southeast automotive industry.
-
----
-
 # Case Study: One2Car (Thailand)
 
 ### 1. Executive Summary
 
 **One2Car** is Thailand’s leading dedicated automotive marketplace. Unlike its giant competitor _Kaidee_ (a general classifieds site) or social media groups, One2Car focuses exclusively on vehicles.
 
-It successfully pivoted from a traditional "listing board" to a comprehensive automotive ecosystem. Today, it is part of the **carsales.com Ltd (Australia)** global network, which provides it with the technological edge to compete against well-funded startups and general classified giants.
+It has expanded beyond a traditional listing board into a broader automotive discovery and services ecosystem. One2Car is operated within **iCar Asia**, which has been owned by **Carsome** since 2022.
 
 ### 2. The Market Context
 
@@ -35,14 +31,14 @@ In Thailand, dealers often act as the "trust layer." They handle the paperwork, 
 General classifieds like _Kaidee_ or _Facebook Marketplace_ suffer from "noise." A buyer looking for a Toyota Hilux has to wade through listings for furniture, phones, and pets.
 One2Car’s value proposition is **Focus**. By stripping away non-automotive categories, they attract users with **High Purchase Intent**.
 
-- _Result:_ Lower traffic volume than Kaidee, but higher conversion rates for dealers.
+- The strategic bet is that domain-specific inventory, filters, and buyer intent make its leads more useful to automotive dealers.
 
-#### B. Data-Driven Valuation (carsales Tech)
+#### B. Structured Discovery and Trust Signals
 
-One2Car leveraged technology from its parent company (carsales.com Ltd) to introduce **"Price Indicator"** tools.
+One2Car's marketplace uses structured vehicle search, dealer profiles, promoted listings, and inspection-related trust signals.
 
-- _The Problem:_ Used car pricing in Thailand is opaque. Buyers fear being ripped off.
-- _The Solution:_ One2Car analyzes listing data to show the average price for specific models. This transparency builds immense trust with buyers, bringing them back to the platform repeatedly.
+- _The Problem:_ Used car pricing and condition can be difficult for buyers to assess.
+- _The Solution:_ Rich filters, comparable inventory, dealer information, and inspected-car programs reduce some of that uncertainty.
 
 #### C. Dealer Empowerment Tools
 
@@ -83,4 +79,18 @@ In a crowded market, being a "Jack of all trades" (General Classifieds) is dange
 In Southeast Asia, dealers control the inventory. Building tools that make the dealer's life easier (DMS, financing support, inspection services) ensures a steady supply of cars to the platform.
 
 **3. Trust is the Currency:**
-The biggest barrier to buying a used car in Thailand is fear of "lemons" (defective cars). One2Car’s introduction of price transparency and inspections addressed this fear directly, differentiating them from the "Wild West" feel of social media listings.
+The biggest barrier to buying a used car in Thailand is fear of "lemons" (defective cars). One2Car's structured discovery, dealer information, and inspected-car programs address that uncertainty more directly than an unstructured social listing.
+
+---
+
+## Sources and Scope
+
+Company-specific facts in this case study are based on the following public sources. Competitive and architectural conclusions are the author's analysis; historical audience and dealer figures should not be treated as current metrics.
+
+- [One2Car marketplace: current search, dealer, listing, and inspection features](https://www.one2car.com/en/)
+- [One2Car terms: marketplace role and Carsome ownership](https://www.one2car.com/en/terms-and-conditions)
+- [Carsome: completion of the iCar Asia acquisition (2022)](https://www.carsome.my/news/item/carsome-completes-acquisition-of-icar-asia)
+- [iCar Asia: acquisition of One2Car and dealer-subscription model (2014)](https://www.icarasia.com/press/icar-asia-to-acquire-one2car-com-secures-leadership-position-in-thailand-completes-21m-placement)
+- [iCar Asia: dealer app and buyer-dealer messaging tools](https://www.icarasia.com/index.php/product-solutions)
+
+Sources last reviewed: September 19, 2026.
