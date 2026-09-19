@@ -50,12 +50,12 @@ One2Car doesn't just sell ad space; it sells software. They provide dealers with
 
 ### 5. Competitive Landscape
 
-One2Car faces a "pincer movement" from two different types of competitors:
+One2Car operates between broad classifieds and more transaction-oriented automotive platforms. The following comparison is an author assessment rather than a published company position:
 
-| Competitor Type             | Player              | Threat Level          | One2Car's Defense                                                                                                                                 |
-| :-------------------------- | :------------------ | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **General Classifieds**     | **Kaidee**          | High (Traffic Volume) | One2Car argues that "Quality > Quantity." Kaidee has more users, but One2Car claims users are more ready to buy.                                  |
-| **Transactional Platforms** | **CARSOME / Carro** | Medium (Disruption)   | CARSOME buys cars directly (C2B). One2Car counters by remaining neutral—it doesn't buy cars, so it doesn't compete with its own dealer customers. |
+| Competitor Type             | Example                        | Competitive Pressure (Author Assessment) | Strategic Implication                                                                                 |
+| :-------------------------- | :----------------------------- | :--------------------------------------- | :---------------------------------------------------------------------------------------------------- |
+| **General Classifieds**     | **Kaidee / Facebook Marketplace** | High: broad reach and free listings       | One2Car must differentiate through automotive data, search depth, dealer tooling, and trust signals. |
+| **Transactional Platforms** | **Carro**                       | Medium: greater control of the transaction | One2Car's marketplace model supports dealer participation but controls less of the transaction.      |
 
 ### 6. The Pivot to "Lifestyle"
 

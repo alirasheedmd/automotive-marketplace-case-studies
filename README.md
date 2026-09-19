@@ -402,7 +402,7 @@ That is one reason I approach Platform Engineering with an application and produ
 # Repository Structure
 
 ```text
-marketplaces-mvp-case-studies/
+automotive-marketplace-case-studies/
 │
 ├── README.md
 ├── autodeal.md

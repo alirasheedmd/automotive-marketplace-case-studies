@@ -76,7 +76,7 @@ AutoDeal operates on an asset-light model, meaning they do not buy, hold, or sel
 
 ### Conclusion
 
-AutoDeal transformed the Philippine automotive landscape from a fragmented, offline industry into a streamlined digital ecosystem. By combining high-quality content, transparent pricing data, and powerful dealer software, they positioned themselves as the essential bridge between Filipino car buyers and the automotive industry.
+AutoDeal demonstrates how an asset-light automotive marketplace can combine content, structured vehicle information, lead generation, and dealer software. Its model shows that a platform can influence the buying journey without owning vehicle inventory or completing the transaction itself.
 
 ---
 

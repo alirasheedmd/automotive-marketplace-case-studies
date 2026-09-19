@@ -97,7 +97,7 @@ In late 2022 and 2023, Kavak faced significant headwinds.
 
 ### Conclusion
 
-Kavak transformed the Mexican automotive market from a dangerous, informal bazaar into a modern, organized retail experience. By controlling the inventory, the financing, and the legal paperwork, they solved the three biggest pain points for Mexican consumers: **Safety, Simplicity, and Affordability.**
+Kavak demonstrates how vertical integration changes the systems required by an automotive commerce platform. Owning inventory, inspection, reconditioning, financing, paperwork, and delivery creates more control over the customer experience, but also introduces substantially greater operational and technical complexity.
 
 ---
 
